@@ -1,0 +1,24 @@
+.hero-sub-header{
+    /* color: linear-gradient(180deg, #1826D0 31.77%, #6993FF 100%); */
+    /* background: linear-gradient(180deg, #1826D0 31.77%, #6993FF 100%); */
+    font-family: 'Clash Display', sans-serif;
+    font-weight: 900;
+    /* color: pink; */
+    background: linear-gradient(180deg, #1826D0 31.77%, #6993FF 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    
+}
+.hero-sub-header-two{
+    /* color: linear-gradient(180deg, #1826D0 31.77%, #6993FF 100%); */
+    font-family: 'Clash Display', sans-serif;
+   
+
+} 
+
+.badge{
+    background: rgba(24, 38, 208, 0.10);
+    font-family: 'Clash Display', sans-serif; 
+}
